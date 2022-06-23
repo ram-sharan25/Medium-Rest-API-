@@ -114,3 +114,25 @@
     flex-direction: column;
   }
 }
+.title{
+  font-weight: 1000;
+  font-size: 2em;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(91, 133, 170);
+}
+.content p {
+  display: flex;
+  padding: 30px;
+  border: 3px solid rgb(167, 148, 148);
+  margin: 20px;
+  background-color: rgb(216, 242, 242);
+}
+.page{
+  background-color: bisque;
+}
+.heading{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: darksalmon;
+  text-align: center;
+  font-size: 3em;
+}
